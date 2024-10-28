@@ -28,5 +28,5 @@ A Flutter mobile application that integrates a WebView to load a gaming platform
 
 1. **Clone the repository**
    ```bash
-   git clone <https://github.com/vishnu-git1524/web_view>
-   cd <web_viewrea>
+   git clone https://github.com/vishnu-git1524/web_view
+   cd web_view
